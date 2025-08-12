@@ -10,12 +10,21 @@ This is a simple **rule-based chatbot** implemented in Python using basic `if-el
 - Runs in a loop until the user types `'exit'`
 
 OUTPUT:
+
 ChatBot: Hello! I'm a simple chatbot. Type 'exit' to end the chat.
+
 You: your name
+
 ChatBot: I'm Rohith, your friendly assistant.
+
 You: help
+
 ChatBot: Sure! You can ask me about weather, greetings, or just chat!
+
 You: weather
+
 ChatBot: I can't fetch real-time data, but I hope it's sunny where you are!
+
 You: exit
+
 ChatBot: Goodbye! Have a great day!
